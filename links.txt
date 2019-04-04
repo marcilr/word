@@ -1,0 +1,13 @@
+links.txt
+Created Thu Apr  4 11:25:19 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Microsoft Word related links
+
+
+Links
+=====
+ARCHIVED: In Microsoft Word, how do I convert
+footnotes to endnotes or vice versa?
+https://kb.iu.edu/d/ahko
