@@ -1,0 +1,37 @@
+convert-footnotes-to-endnotes-or-vice-versa.txt
+Created Thu Apr  4 11:28:19 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+ARCHIVED: In Microsoft Word, how do I convert
+footnotes to endnotes or vice versa?
+
+
+Word for Windows (2010 and 2007)
+================================
+To convert one or more footnotes or endnotes:
+
+1. Open your document and select the References tab.
+   In the Footnotes group, click Show Notes.
+
+2. Select the notes you want to convert, and then
+   right-click. Select Convert to Footnote or Convert to Endnote.
+
+To convert all footnotes or endnotes:
+
+1. Open the document and select the References tab.
+
+2. Click the Footnote & Endnote Dialog Box launcher
+   (it appears as a small square in the bottom-right
+   corner of the tab). Then click Convert....
+
+3. Click OK or Apply.
+--kb.iu.edu/d/ahko
+
+
+Links
+=====
+convert-footnotes-to-endnotes-or-vice-versa.txt
+  ARCHIVED: In Microsoft Word, how do I convert
+  footnotes to endnotes or vice versa?
+  https://kb.iu.edu/d/ahko
