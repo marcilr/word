@@ -1,0 +1,15 @@
+table-remove-lines.txt
+Created Mon Jul  8 11:58:14 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Table remove lines
+
+
+To remove all the lines for a table in Word:
+
+1. Select entire table
+   use selection box at upper left
+
+2. Under Design > Table Design
+   click Borders > No Border 
